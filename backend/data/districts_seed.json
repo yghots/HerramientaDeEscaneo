@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Jesús María",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.086,
+    "max_lat": -12.065,
+    "min_lon": -77.058,
+    "max_lon": -77.039
+  },
+  {
+    "name": "Lince",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.092,
+    "max_lat": -12.078,
+    "min_lon": -77.042,
+    "max_lon": -77.026
+  },
+  {
+    "name": "Pueblo Libre",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.085,
+    "max_lat": -12.064,
+    "min_lon": -77.075,
+    "max_lon": -77.052
+  },
+  {
+    "name": "Miraflores",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.140,
+    "max_lat": -12.102,
+    "min_lon": -77.045,
+    "max_lon": -77.018
+  },
+  {
+    "name": "San Isidro",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.112,
+    "max_lat": -12.084,
+    "min_lon": -77.060,
+    "max_lon": -77.020
+  },
+  {
+    "name": "Magdalena del Mar",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.099,
+    "max_lat": -12.083,
+    "min_lon": -77.076,
+    "max_lon": -77.060
+  },
+  {
+    "name": "San Miguel",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.095,
+    "max_lat": -12.060,
+    "min_lon": -77.105,
+    "max_lon": -77.070
+  },
+  {
+    "name": "Santiago de Surco",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.170,
+    "max_lat": -12.105,
+    "min_lon": -77.015,
+    "max_lon": -76.960
+  },
+  {
+    "name": "San Borja",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.115,
+    "max_lat": -12.080,
+    "min_lon": -77.015,
+    "max_lon": -76.980
+  },
+  {
+    "name": "La Molina",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.110,
+    "max_lat": -12.045,
+    "min_lon": -76.960,
+    "max_lon": -76.890
+  },
+  {
+    "name": "Barranco",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.155,
+    "max_lat": -12.135,
+    "min_lon": -77.030,
+    "max_lon": -77.010
+  },
+  {
+    "name": "Lima Cercado",
+    "province": "Lima",
+    "department": "Lima",
+    "min_lat": -12.070,
+    "max_lat": -12.030,
+    "min_lon": -77.060,
+    "max_lon": -77.010
+  }
+]

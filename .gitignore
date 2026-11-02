@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Logs & PIDs
+*.log
+*.pid
+.backend.pid
+.frontend.pid
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+backend/data/cache/
+.env

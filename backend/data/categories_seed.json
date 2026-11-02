@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "restaurantes-cafeterias",
+    "name": "Restaurantes y cafeterías",
+    "icon": "Utensils",
+    "osm_tags": {
+      "amenity": ["restaurant", "cafe", "fast_food", "bar", "pub", "food_court", "ice_cream"]
+    },
+    "description": "Restaurantes, chifas, cevicherías, cafeterías, pizzerías y pollerías"
+  },
+  {
+    "slug": "barberias-peluquerias",
+    "name": "Barberías y peluquerías",
+    "icon": "Scissors",
+    "osm_tags": {
+      "shop": ["hairdresser", "beauty", "barber"]
+    },
+    "description": "Salones de belleza, barberías, spas y cuidado personal"
+  },
+  {
+    "slug": "gimnasios-deportes",
+    "name": "Gimnasios y centros deportivos",
+    "icon": "Dumbbell",
+    "osm_tags": {
+      "leisure": ["fitness_centre", "sports_centre"],
+      "sport": ["fitness", "gymnastics", "martial_arts"]
+    },
+    "description": "Gimnasios, box de crossfit, academias de artes marciales y canchas sintéticas"
+  },
+  {
+    "slug": "veterinarias-mascotas",
+    "name": "Veterinarias y mascotas",
+    "icon": "PawPrint",
+    "osm_tags": {
+      "amenity": ["veterinary"],
+      "shop": ["pet", "pet_grooming"]
+    },
+    "description": "Clínicas veterinarias, pet shops y peluquerías caninas"
+  },
+  {
+    "slug": "consultorios-profesionales",
+    "name": "Consultorios y servicios profesionales",
+    "icon": "Stethoscope",
+    "osm_tags": {
+      "amenity": ["dentist", "doctors", "clinic"],
+      "office": ["lawyer", "accountant", "architect", "engineer", "insurance"]
+    },
+    "description": "Odontólogos, médicos, psicólogos, estudios contables y jurídicos"
+  },
+  {
+    "slug": "ferreterias-construccion",
+    "name": "Ferreterías y construcción",
+    "icon": "Wrench",
+    "osm_tags": {
+      "shop": ["doityourself", "hardware", "trade", "paint"]
+    },
+    "description": "Ferreterías de barrio, pinturas, materiales eléctricos y sanitarios"
+  },
+  {
+    "slug": "tiendas-ropa-moda",
+    "name": "Tiendas de ropa y calzado",
+    "icon": "ShoppingBag",
+    "osm_tags": {
+      "shop": ["clothes", "shoes", "fashion", "boutique", "tailor"]
+    },
+    "description": "Boutiques, tiendas de ropa, zapaterías y talleres de confección"
+  },
+  {
+    "slug": "talleres-mecanicos",
+    "name": "Talleres mecánicos y automotriz",
+    "icon": "Car",
+    "osm_tags": {
+      "shop": ["car_repair", "motorcycle_repair", "tyres", "car_parts"],
+      "craft": ["car_repair"]
+    },
+    "description": "Mecánica automotriz, llanterías, lubricentros y repuestos"
+  },
+  {
+    "slug": "lavanderias",
+    "name": "Lavanderías",
+    "icon": "Shirt",
+    "osm_tags": {
+      "shop": ["laundry", "dry_cleaning"]
+    },
+    "description": "Lavanderías al peso, lavado en seco y tintorerías"
+  },
+  {
+    "slug": "panaderias-pastelerias",
+    "name": "Panaderías y pastelerías",
+    "icon": "Cake",
+    "osm_tags": {
+      "shop": ["bakery", "pastry", "confectionery"]
+    },
+    "description": "Panaderías artesanales, pastelerías y reposterías"
+  },
+  {
+    "slug": "florerias",
+    "name": "Florerías",
+    "icon": "Flower2",
+    "osm_tags": {
+      "shop": ["florist"]
+    },
+    "description": "Florerías, arreglos florales y viveros"
+  },
+  {
+    "slug": "hoteles-alojamientos",
+    "name": "Hoteles y alojamientos",
+    "icon": "Hotel",
+    "osm_tags": {
+      "tourism": ["hotel", "guest_house", "hostel", "motel"]
+    },
+    "description": "Hostales, hoteles independientes y casas de huéspedes"
+  },
+  {
+    "slug": "servicios-hogar",
+    "name": "Servicios para el hogar",
+    "icon": "Hammer",
+    "osm_tags": {
+      "craft": ["electrician", "plumber", "carpenter", "locksmith", "painter", "glaziery"]
+    },
+    "description": "Cerrajerías, gasfiterías, vidrierías y carpinterías"
+  },
+  {
+    "slug": "academias-educacion",
+    "name": "Academias y centros educativos",
+    "icon": "GraduationCap",
+    "osm_tags": {
+      "amenity": ["language_school", "music_school", "driving_school", "kindergarten"]
+    },
+    "description": "Escuelas de manejo, academias de baile, música e idiomas"
+  },
+  {
+    "slug": "otros-comercios",
+    "name": "Otros comercios",
+    "icon": "Store",
+    "osm_tags": {
+      "shop": ["stationery", "optician", "books", "electronics", "supermarket", "convenience", "general"]
+    },
+    "description": "Bazares, librerías, ópticas y minimarkets locales"
+  }
+]

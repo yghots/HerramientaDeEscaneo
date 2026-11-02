@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "generator": "NexoLeads-Sample-Extractor",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/101001",
+      "geometry": { "type": "Point", "coordinates": [-77.0495, -12.0742] },
+      "properties": {
+        "name": "Cevichería El Rincón Marino",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "addr:street": "Av. Arnaldo Márquez",
+        "addr:housenumber": "1240",
+        "addr:district": "Jesús María",
+        "phone": "998 765 432",
+        "contact:phone": "+51 1 463 8890"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101002",
+      "geometry": { "type": "Point", "coordinates": [-77.0512, -12.0728] },
+      "properties": {
+        "name": "Barbería D'Capri Jesús María",
+        "shop": "barber",
+        "addr:street": "Jr. Huáscar",
+        "addr:housenumber": "1450",
+        "addr:district": "Jesús María",
+        "phone": "987123456",
+        "contact:facebook": "https://facebook.com/barberiadcaprijm",
+        "contact:instagram": "https://instagram.com/dcapri_barberia"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101003",
+      "geometry": { "type": "Point", "coordinates": [-77.0480, -12.0760] },
+      "properties": {
+        "name": "Veterinaria San Antonio de Padua",
+        "amenity": "veterinary",
+        "addr:street": "Av. General Garzón",
+        "addr:housenumber": "1890",
+        "addr:district": "Jesús María",
+        "phone": "(01) 463-2211",
+        "email": "contacto@vetsanantonio.pe",
+        "website": "https://vetsanantoniopadua-example-offline.pe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101004",
+      "geometry": { "type": "Point", "coordinates": [-77.0520, -12.0780] },
+      "properties": {
+        "name": "Ferretería & Pinturas La Colonial",
+        "shop": "hardware",
+        "addr:street": "Av. Brasil",
+        "addr:housenumber": "2104",
+        "addr:district": "Jesús María",
+        "phone": "+51 977 444 333"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101005",
+      "geometry": { "type": "Point", "coordinates": [-77.0340, -12.0830] },
+      "properties": {
+        "name": "Gimnasio Titanes Fitness Lince",
+        "leisure": "fitness_centre",
+        "addr:street": "Av. Arenales",
+        "addr:housenumber": "1745",
+        "addr:district": "Lince",
+        "phone": "944556677",
+        "contact:instagram": "https://www.instagram.com/titanesfitnesslince"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101006",
+      "geometry": { "type": "Point", "coordinates": [-77.0360, -12.0850] },
+      "properties": {
+        "name": "Panadería & Pastelería Don Lucho",
+        "shop": "bakery",
+        "addr:street": "Jr. Risso",
+        "addr:housenumber": "320",
+        "addr:district": "Lince",
+        "phone": "01 4719988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101007",
+      "geometry": { "type": "Point", "coordinates": [-77.0335, -12.0815] },
+      "properties": {
+        "name": "Consultorio Odontológico Sonrisas Lince",
+        "amenity": "dentist",
+        "addr:street": "Av. Petit Thouars",
+        "addr:housenumber": "2150",
+        "addr:district": "Lince",
+        "phone": "912345678",
+        "website": "http://127.0.0.1:8000/internal-test-ssrf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101008",
+      "geometry": { "type": "Point", "coordinates": [-77.0620, -12.0730] },
+      "properties": {
+        "name": "Taller Mecánico Automotriz Sucre",
+        "shop": "car_repair",
+        "addr:street": "Av. Antonio José de Sucre",
+        "addr:housenumber": "890",
+        "addr:district": "Pueblo Libre",
+        "phone": "955 123 789"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101009",
+      "geometry": { "type": "Point", "coordinates": [-77.0650, -12.0710] },
+      "properties": {
+        "name": "Lavandería Burbujas Express",
+        "shop": "laundry",
+        "addr:street": "Av. Bolívar",
+        "addr:housenumber": "1120",
+        "addr:district": "Pueblo Libre",
+        "phone": "988 221 100"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101010",
+      "geometry": { "type": "Point", "coordinates": [-77.0310, -12.1220] },
+      "properties": {
+        "name": "Boutique & Modas Larco",
+        "shop": "clothes",
+        "addr:street": "Av. José Larco",
+        "addr:housenumber": "640",
+        "addr:district": "Miraflores",
+        "phone": "+51 1 242 5566",
+        "contact:website": "https://modaslarco-fake-inexistent-domain-xyz123.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101011",
+      "geometry": { "type": "Point", "coordinates": [-77.0290, -12.1180] },
+      "properties": {
+        "name": "Café Tradición Miraflores",
+        "amenity": "cafe",
+        "addr:street": "Calle Esperanza",
+        "addr:housenumber": "235",
+        "addr:district": "Miraflores",
+        "phone": "991002003",
+        "contact:facebook": "https://facebook.com/cafetradicionmiraflores"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101012",
+      "geometry": { "type": "Point", "coordinates": [-77.0370, -12.0950] },
+      "properties": {
+        "name": "Florería Las Orquídeas San Isidro",
+        "shop": "florist",
+        "addr:street": "Calle Las Begonias",
+        "addr:housenumber": "441",
+        "addr:district": "San Isidro",
+        "phone": "01 440 9876",
+        "email": "pedidos@orquideassanisidro.pe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101013",
+      "geometry": { "type": "Point", "coordinates": [-77.0680, -12.0910] },
+      "properties": {
+        "name": "Cevichería El Pez Dorado Magdalena",
+        "amenity": "restaurant",
+        "addr:street": "Jr. Bolognesi",
+        "addr:housenumber": "512",
+        "addr:district": "Magdalena del Mar",
+        "phone": "961 882 334"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101014",
+      "geometry": { "type": "Point", "coordinates": [-77.0850, -12.0780] },
+      "properties": {
+        "name": "Academia de Música Clave de Sol San Miguel",
+        "amenity": "music_school",
+        "addr:street": "Av. La Marina",
+        "addr:housenumber": "2340",
+        "addr:district": "San Miguel",
+        "phone": "972 345 678",
+        "contact:facebook": "https://facebook.com/clavedesolsanmiguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101015",
+      "geometry": { "type": "Point", "coordinates": [-77.0010, -12.1350] },
+      "properties": {
+        "name": "Hostal El Descanso Surco",
+        "tourism": "guest_house",
+        "addr:street": "Av. Caminos del Inca",
+        "addr:housenumber": "1420",
+        "addr:district": "Santiago de Surco",
+        "phone": "01 275 8899"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101016",
+      "geometry": { "type": "Point", "coordinates": [-76.9950, -12.0980] },
+      "properties": {
+        "name": "Cerrajería & Servicios San Borja",
+        "craft": "locksmith",
+        "addr:street": "Av. San Luis",
+        "addr:housenumber": "1980",
+        "addr:district": "San Borja",
+        "phone": "993 456 781"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/101017",
+      "geometry": { "type": "Point", "coordinates": [-76.9350, -12.0780] },
+      "properties": {
+        "name": "Veterinaria La Molina Pets",
+        "amenity": "veterinary",
+        "addr:street": "Av. Javier Prado Este",
+        "addr:housenumber": "5890",
+        "addr:district": "La Molina",
+        "phone": "981 772 233",
+        "contact:instagram": "https://instagram.com/lamolinapets"
+      }
+    }
+  ]
+}
